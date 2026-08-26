@@ -1,6 +1,6 @@
 The student management site is a website that can manage handel student data. 
 
-**Backend & Database Components ** 
+**Backend & Database Components** 
 
 Core python programming language handling application logic, server execution, and database connection handling. 
 
